@@ -25,7 +25,7 @@
 
 ## Overview
 
-![screenshot](https://github.com/hasanaimroatun/wpu-windbnbChallenge/blob/master/src/components/screenshoot/2022-08-04%20(4).png)
+![screenshot](https://github.com/hasanaimroatun/wpu-landingPage/blob/master/pic/2022-10-04.png)
 
 You can see my demo on . I have have interest in web development since a few months ago. I have learned css, html, javascript, react, boostrap, and sass from youtube and few website. I hope with more learn and practice from devChallenges can improve my skill in developing website.
 
