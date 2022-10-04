@@ -35,6 +35,7 @@ You can see my demo on . I have have interest in web development since a few mon
 - [Sass](https://sass-lang.com)
 - [VSCode](https://code.visualstudio.com)
 - [Fire Base Hosting](https://firebase.google.com)
+- [FreePik](https://www.freepik.com)
 
 ## Acknowledgements
 
